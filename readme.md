@@ -27,6 +27,7 @@
 
 O projeto foi todo desenvolvido com as ferramentas Microsoft SQL Server. Entre as ferramentas estão:
 
+
     * SQL Server Management Studio 2019 (SSMS)
     
     * SQL Server Integrations Services (SSIS)
