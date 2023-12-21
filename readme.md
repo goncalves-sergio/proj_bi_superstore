@@ -8,9 +8,12 @@
 
 
 |── data_layer                                         
-|      |──  raw_data_layer
+|  |──  raw_data_layer
+
 |── doc
+
 |── src
+
 
 
 *  data_layer - Neste repositório repousa todos os dados do projeto inclusive o backup do banco de dados. 
@@ -23,9 +26,13 @@
 ## Ambiente de desenvolvimento 
 
 O projeto foi todo desenvolvido com as ferramentas Microsoft SQL Server. Entre as ferramentas estão:
+
     * SQL Server Management Studio 2019 (SSMS)
+    
     * SQL Server Integrations Services (SSIS)
+    
     * SQL Server Analysis Services (SSAS)
+    
     * Visual Studio Community 2019
 
 
